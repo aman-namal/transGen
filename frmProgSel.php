@@ -36,6 +36,11 @@ require_once('parseBradfordData.php');
 		<INPUT TYPE="SUBMIT" Value="Next >>" class="link_button" style='margin-left:20px;' />
 	</TD>
 </TR>
+<TR>
+	<TD COLSPAN="2">
+		<<THIS SYSTEM IS UNDER CONSTRUCTION>>
+	</TD>
+</TR>
 <TABLE>
 </FORM>
 </BODY>
